@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[getting ready for the execution]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16914" started-at="2020-06-04T05:56:55Z" finished-at="2020-06-04T05:57:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16914" started-at="2020-06-04T05:56:55Z" finished-at="2020-06-04T05:57:12Z">
+      <class name="test.TestActitimeLogin">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:test.TestActitimeLogin@1e397ed7]" name="openbrowser" is-config="true" duration-ms="15420" started-at="2020-06-04T05:56:55Z" finished-at="2020-06-04T05:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="enteruser()[pri:0, instance:test.TestActitimeLogin@1e397ed7]" name="enteruser" is-config="true" duration-ms="1" started-at="2020-06-04T05:57:11Z" finished-at="2020-06-04T05:57:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[getting ready for the execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enteruser -->
+        <test-method status="PASS" signature="submit()[pri:0, instance:test.TestActitimeLogin@1e397ed7]" name="submit" duration-ms="1454" started-at="2020-06-04T05:57:11Z" finished-at="2020-06-04T05:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- test.TestActitimeLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
